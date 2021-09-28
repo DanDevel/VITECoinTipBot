@@ -17,7 +17,7 @@ You can either: **fund our pool account or fund your account received by DM** fr
 # VITECOINTIPBOT is also Marketing active
 And **an auto meme generator marketing bot that send tweets in 2 languages: French and English**
 vitecointipbot send tweets to according GPS locations: randomic pre programed localities on FR and US territory
-the images and number of memes to be created, 5! by now. Can be changed according on your needings.
+the images and number of memes to be created, 5! (120 randomic combinations) by now. Can be changed according on your needings.
 Also activated and deactivated as well.
 
 
