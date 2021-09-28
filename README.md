@@ -12,7 +12,8 @@ Then **send the new account number to the user via DM.** Also a link to user vis
 **User can intercact with vitecointipbot by sending - DM Command messages - .** 
 
 
-# VITECOINTIPBOT is an auto meme generator marketing bot that send tweets in 2 languages: French and English
+# VITECOINTIPBOT is also Marketing active
+And **an auto meme generator marketing bot that send tweets in 2 languages: French and English**
 vitecointipbot send tweets to according GPS locations: randomic pre programed localities on FR and US territory
 the images and number of memes to be created, 5! by now. Can be changed according on your needings.
 Also activated and deactivated as well.
