@@ -31,7 +31,7 @@ If user has 0 balance, then vitecointipbot will send a new DM to the user with a
 
 User **send a tweet on Twitter** (not a DM!) to vitecointipbot: **@vitecointipbot #tip @userToSendOnTwitter #100 #vitecoin**
 
-after tip done, **8@vitecointipbot will like the user's tweet as a confirmation code.**
+after tip done, **@vitecointipbot will like the user's tweet as a confirmation code.**
 
 that's it.
 
