@@ -60,7 +60,9 @@ TWITTER_VITETIPBOT
     - memes (example memes)
   
   msgs_lib_vite.py (messages and gps positioning to post in french and english)
+  
   twitterVITE_TIP_BOT.py (MAIN FILE - **RUN THIS FILE TO START VITECOINTIPBOT**)
+  
   VITE_WALLET_LEDGER.py (wallet and ledger functions)
   
   
