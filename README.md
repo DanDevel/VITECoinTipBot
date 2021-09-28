@@ -11,7 +11,7 @@ VITECOINTIPBOT is twitter page that **open a vite account to every new follower*
 Then **send the new account number to the user via DM.** Also a link to user visit Vite.org
 **User can intercact with vitecointipbot by sending - DM Command messages - .** 
 
-# fund @vitecointipbot by donatin vite to our pool: vite_a8c92ce8c7762570b2a2d4713cab66c92aff14bd80b8620654
+# fund @vitecointipbot by donating vite to our pool: vite_a8c92ce8c7762570b2a2d4713cab66c92aff14bd80b8620654
 You can either: **fund our pool account or fund your account received by DM** from @vitecointipbot 
 
 # VITECOINTIPBOT is also Marketing active
