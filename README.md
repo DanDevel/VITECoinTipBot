@@ -30,7 +30,7 @@ Automatically user will receive a DM with their balance.
 If user has 0 balance, then vitecointipbot will send a new DM to the user with an invite to Vitex.net 
 
 
-**2 - TIP someone:**
+**2 - TIP someone or WITHDRAW:**
 
 User **send a tweet on Twitter** (not a DM!) to vitecointipbot: **@vitecointipbot #tip @userToSendOnTwitter #100 #vitecoin**
 
