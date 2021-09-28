@@ -1,7 +1,7 @@
 # VITECoinTipBot
 A tip bot on twitter for **VITE blockchain**  
 basically a digital banking service controlled by a twitter bot. 
-Thats cool right o/
+That's cool right o/
 
 
 # VITE TIP BOT on TWITTER
