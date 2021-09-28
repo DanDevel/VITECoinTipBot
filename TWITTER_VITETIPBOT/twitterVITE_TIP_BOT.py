@@ -1156,7 +1156,7 @@ def check_Twitter_mentions_for_TIP_USERS():
 # readDMs_VITE_Commands_requests(241282794) # Twitter @vitecointipbot page owner's id: 241282794
 
 
-'''
+
 timeToTweet_MEMES = 0
 twts = 0
 while True:
@@ -1210,7 +1210,7 @@ while True:
         pass
         print(err)
 
-'''
+
 
 
 # teste memes
