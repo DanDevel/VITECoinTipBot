@@ -62,7 +62,7 @@ Made and tested on VSCODE
 
 **Insert your twitter credentials and run twitterVITE_TIP_BOT.py**
 
-twitter credentials:
+twitter credentials on twitterVITE_TIP_BOT.py:
 
 CONSUMER_KEY=''
 CONSUMER_SECRET=''
