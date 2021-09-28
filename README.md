@@ -21,6 +21,7 @@ Also activated and deactivated as well.
 # Available DM command Messages:
 
 **1 - Check balance:**
+
 User can DM vitecointipbot by sending DM message command: #ViteAccount (not case sensitive)
 Automatically user will receive a DM with their balance.
 If user has 0 balance, then vitecointipbot will send a new DM to the user with an invite to Vitex.net 
