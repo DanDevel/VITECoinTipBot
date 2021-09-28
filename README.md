@@ -39,3 +39,36 @@ after tip done, **@vitecointipbot will like the user's tweet as a confirmation c
 that's it.
 
 
+
+
+
+# Project folders and files
+
+TWITTER_VITETIPBOT
+  - LOCALDB
+  - Templates
+  - viteimgs (parts / layers of memes to be auto generated)
+  msgs_lib_vite.py (messages and gps positioning to post in french and english)
+  twitterVITE_TIP_BOT.py (MAIN FILE - **RUN THIS FILE TO START VITECOINTIPBOT**)
+  VITE_WALLET_LEDGER.py (wallet and ledger functions)
+  
+  
+# ********************************* 
+# START VITECOINTIPBOT
+# ********************************* 
+# Main file: twitterVITE_TIP_BOT.py
+
+Made and tested on VSCODE
+
+**Insert your twitter credentials and run twitterVITE_TIP_BOT.py**
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+
