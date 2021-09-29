@@ -11,8 +11,11 @@ VITECOINTIPBOT is twitter page that **open a vite account to every new follower*
 Then **send the new account number to the user via DM.** Also a link to user visit Vite.org
 **User can intercact with vitecointipbot by sending - DM Command messages - .** 
 
-# fund @vitecointipbot by donating vite to our pool: vite_a8c92ce8c7762570b2a2d4713cab66c92aff14bd80b8620654
+# fund @vitecointipbot by either donating vite to our pool: vite_a8c92ce8c7762570b2a2d4713cab66c92aff14bd80b8620654 or funding your account received by Vitecointipbot via DM
 You can either: **fund our pool account or fund your account received by DM** from @vitecointipbot 
+
+# Increase VITE Token Holders
+Once user can fund the main acocunt or their own account received via DM, this brings **more holders on VITE Blockchain**.
 
 # VITECOINTIPBOT is also Marketing active
 And **an auto meme generator marketing bot that send tweets in 2 languages: French and English**
