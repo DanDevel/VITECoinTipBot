@@ -1203,7 +1203,9 @@ while True:
         timerWait = randint(300, 900)
         print('next tweet in: ', timerWait)
 
-        time.sleep(timerWait)
+        import time as t
+        from datetime import datetime
+        t.sleep(timerWait)
 
 
     except Exception as err:
