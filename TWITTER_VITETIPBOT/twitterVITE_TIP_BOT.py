@@ -1180,9 +1180,10 @@ while True:
         # run this function to promoted our page on France and United States
         # will post tweets in french language on France. Will post tweets in English language on US territory
         # === MEME GENERATOR ======================================================================
-        
-        sendMesageVITE_Style()
-        timeToTweet_MEMES += 1
+        if timeToTweet_MEMES == 0: # post meme on start bot
+            sendMesageVITE_Style()
+            timeToTweet_MEMES += 1
+            
         if timeToTweet_MEMES >= 20: # random about 2 hours~ # every 2 hour post a diferent meme
             sendMesageVITE_Style() 
             timeToTweet_MEMES = 0
