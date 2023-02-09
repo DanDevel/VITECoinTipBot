@@ -34,3 +34,7 @@ steps:
     pip install pytest pytest-azurepipelines
     pytest
   displayName: 'pytest'
+  
+- name: First interaction
+  uses: actions/first-interaction@v1.1.1
+
